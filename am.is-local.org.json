@@ -1,0 +1,12 @@
+{
+  "description": "AM",
+  "domain": "is-local.org",
+  "subdomain": "am",
+"owner": {
+    "github": "ITAMGroups"
+  },
+"record": {
+    "A": ["93.115.240.20"]
+  },
+  "proxied": false
+}
